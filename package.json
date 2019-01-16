@@ -1,5 +1,5 @@
 {
-  "name": "koa",
+  "name": "@nswbmw/koa",
   "version": "2.13.1",
   "description": "Koa web app framework",
   "main": "lib/application.js",
